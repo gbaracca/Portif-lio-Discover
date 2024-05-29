@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Atravez desse link, o portifólio é um projeto que permite o acesso ás minhas redes sociais e de contato.
+O portifólio é um projeto que, atravez desse link, permite o acesso ás minhas redes sociais e de contato.
 
 ## 🔖 Layout
 
