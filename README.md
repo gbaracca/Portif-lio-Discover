@@ -1,7 +1,7 @@
 <h1 align="center"> Portifólio </h1>
 
 <p align="center">
-Guia de apresentação pessoal online exclusivo sobre mim.
+Guia de apresentação pessoal online e exclusivo sobre mim.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
