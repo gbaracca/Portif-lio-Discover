@@ -1,9 +1,7 @@
 <h1 align="center"> Portifólio </h1>
 
 <p align="center">
-Guia de apresentação pessoal online exclusivo sobre mim. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Saiba mais sobre a criação desse projeto em formato de vídeo clicando aqui.</a>
-</p>
+Guia de apresentação pessoal online exclusivo sobre mim.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -37,7 +35,6 @@ O Guia de Apresentação Pessoal é um agregador de links para usar como cartão
 
 - [Acesse o projeto finalizado, online](.....)
 
-
 ## 🔖 Layout
 
 Você pode visualizar o layout base do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321) (referência da estrutura). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
@@ -48,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Gustavo Baracca Andrade :wave: 
+Feito com ♥ by Gustavo Baracca Andrade :wave:
