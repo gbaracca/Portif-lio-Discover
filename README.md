@@ -1,7 +1,8 @@
-<h1 align="center"> Guia de Apresentação Pessoal </h1>
+<h1 align="center"> Portifólio </h1>
 
 <p align="center">
-Portifólio exclusivo para conhecer um pouco mais sobre mim.
+Guia de apresentação pessoal online exclusivo sobre mim. <br/>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Saiba mais sobre a criação desse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -18,7 +19,7 @@ Portifólio exclusivo para conhecer um pouco mais sobre mim.
 <br>
 
 <p align="center">
-  <img alt="..." src="..." width="100%">
+  <img alt="Projeto Portifólio" src="..." width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,16 +33,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O portifólio é um projeto que, atravez desse link, permite o acesso ás minhas redes sociais e de contato.
+O Guia de Apresentação Pessoal é um agregador de links para usar como cartão de visitas online.
+
+- [Acesse o projeto finalizado, online](.....)
+
 
 ## 🔖 Layout
 
-Você pode visualizar o layout base do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate) (referência de toda estrutura). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout base do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321) (referência da estrutura). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 💻 Licença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por Gustavo Baracca Andrade.
+Feito com ♥ by Gustavo Baracca Andrade :wave: 
