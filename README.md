@@ -17,7 +17,7 @@ Guia de apresentação pessoal online exclusivo sobre mim.
 <br>
 
 <p align="center">
-  <img alt="Projeto Portifólio" src="..." width="100%">
+  <img alt="Projeto Portifólio" src="assets/Capa projeto portifólio.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Guia de Apresentação Pessoal é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](.....)
+- [Acesse o projeto finalizado, online](http://127.0.0.1:5502/index.html)
 
 ## 🔖 Layout
 
